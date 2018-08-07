@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"Request"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"req",
+				"request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "web.php",
+			"settings":
+			{
+				"buffer_size": 562,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/laravel-blog",
+		"/D/projects/laravel-blog/public",
+		"/D/projects/laravel-blog/resources",
+		"/D/projects/laravel-blog/resources/views",
+		"/D/projects/laravel-blog/routes"
+	],
+	"file_history":
+	[
+		"/D/projects/laravel-blog/resources/views/welcome.blade.php",
+		"/D/projects/laravel-blog/resources/views/cadastrar.php",
+		"/D/projects/laravel-blog/public/index.php",
+		"/D/projects/ionic3/src/app/albuns-list-model.ts",
+		"/D/projects/ionic3/src/pages/album-list/album-list.ts",
+		"/D/projects/ionic3/src/pages/album-list/album-list.html",
+		"/D/projects/ionic3/src/pages/album-create/album-create.html",
+		"/D/projects/ionic3/.gitignore",
+		"/D/projects/ionic3/readme.txt",
+		"/D/projects/ionic3/src/app/app.module.ts",
+		"/D/projects/ionic3/src/pages/album-create/album-create.ts",
+		"/D/projects/ionic3/src/app/app.component.ts",
+		"/D/projects/ionic3/src/app/albuns-list-model",
+		"/D/projects/ionic3/src/pages/home/home.html",
+		"/D/projects/ionic3/src/pages/album-create/album-create.module.ts",
+		"/D/projects/ionic3/src/pages/album-create/album-create.scss",
+		"/D/projects/ionic3/src/app/app.html",
+		"/D/projects/cordova/www/index.html",
+		"/D/projects/cordova/platforms/android/cordova/lib/emulator.js",
+		"/D/projects/cordova/www/home.html",
+		"/D/projects/cordova/config.xml",
+		"/D/projects/cordova/package.json",
+		"/D/projects/cordova/www/xo.html",
+		"/D/projects/cordova/www/game.html",
+		"/D/projects/cordova/.gitignore",
+		"/D/projects/cordova/www/js/index.js",
+		"/D/projects/cordova/platforms/android/app/build.gradle",
+		"/D/projects/cordova/package-lock.json",
+		"/D/projects/cordova/.npmignore",
+		"/D/projects/codeigniter/application/hooks/AuthHook.php",
+		"/D/projects/codeigniter/application/config/config.php",
+		"/D/projects/codeigniter/application/controllers/Auth.php",
+		"/D/projects/codeigniter/application/views/auth/registre.php",
+		"/D/projects/codeigniter/application/views/auth/login.php",
+		"/D/projects/codeigniter/application/config/hooks.php",
+		"/D/projects/codeigniter/application/models/Users_model.php",
+		"/D/projects/codeigniter/application/models/Pages_model.php",
+		"/D/projects/codeigniter/application/views/pages/index.php",
+		"/D/projects/codeigniter/application/config/routes.php",
+		"/D/projects/codeigniter/application/controllers/Pages.php",
+		"/D/projects/codeigniter/application/config/database.php",
+		"/D/projects/codeigniter/application/views/success.php",
+		"/D/projects/codeigniter/application/views/pages/add.php",
+		"/D/projects/codeigniter/application/views/pages/edit.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/projects/codeigniter/.htaccess",
+		"/D/projects/proj-fabricadecursos/.htaccess",
+		"/D/projects/codeigniter/public/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/projects/codeigniter/application/views/pages/view.php",
+		"/D/projects/codeigniter/application/models/index.html",
+		"/D/projects/codeigniter/application/views/template/headr.php",
+		"/D/projects/codeigniter/application/views/template/footer.php",
+		"/D/projects/codeigniter/application/views/index.html",
+		"/D/projects/codeigniter/application/views/template/headr.html",
+		"/D/projects/codeigniter/application/views/template.html",
+		"/D/projects/codeigniter/application/views/welcome_message.php",
+		"/D/projects/codeigniter/composer.json",
+		"/D/projects/codeigniter/application/controllers/Welcome.php",
+		"/D/projects/codeigniter/.gitignore",
+		"/D/projects/codeigniter/readme.rst",
+		"/D/projects/codeigniter/contributing.md",
+		"/D/projects/codeigniter/index.php",
+		"/D/projects/codeigniter/application/views/index.php",
+		"/D/projects/codeigniter/application/config/autoload.php",
+		"/D/projects/nodejs-crawler/package.json",
+		"/D/projects/nodejs-crawler/index.js",
+		"/D/projects/nodejs-crawler/spider.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\projects\\laravel-blog"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 47.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
