@@ -16,7 +16,12 @@ Route::group(['prefix' => '/'], function(){
 
 // Admin
 Route::group(['prefix'=> '/admin'], function(){
-	Route::get('/cliente/cadastrar', 'ClientsController@cadastrar');
+	Route::get('client', 'ClientsController@listar');
+	Route::get('client/form-cadastrar', 'ClientsController@formCadastrar');
+    Route::post('client/cadastrar', 'ClientsController@cadastrar');
+    Route::get('client/{id}/form-editar', 'ClientsController@formEditar');
+    Route::post('client/{id}/editar', 'ClientsController@editar');
+    Route::get('client/{id}/excluir', 'ClientsController@excluir');
 });
 
 
